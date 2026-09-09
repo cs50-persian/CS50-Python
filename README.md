@@ -1,4 +1,4 @@
-# CS50 Python — Persian Edition 🇮🇷
+# CS50 Python — Persian Edition
 
 * > **اگر فارسی زبان هستید به [صفحه فارسی](https://github.com/cs50-persian/CS50-Python/blob/main/Persian.md) مراجعه فرمایید.**
 * > **Harvard University's CS50 Python course, now available in Persian for Persian-speaking learners through CS50x Persian.**
@@ -55,7 +55,7 @@ Our Persian CS50 Python course provides:
 
 * 💻 Practical Python exercises
 * 📚 Persian learning resources
-* 🇮🇷 Persian-language educational content
+*  Persian-language educational content
 * 🎥 Professionally translated course lessons
 * 🧩 Programming-focused projects and examples
 * 🌱 A learning experience designed for Persian-speaking students
@@ -128,6 +128,6 @@ If this project helps you learn Python or programming, consider giving the repos
 
 Your support helps us continue making high-quality computer science education more accessible to the Persian-speaking community.
 
-**Learn. Build. Share. 🇮🇷**
+**Learn. Build. Share.**
 
 > **This document was created by [Borna Etminan](https://github.com/borna-etminan), an official member of the Harvard University CS50 Persian team and the main admin of this Github account.**
